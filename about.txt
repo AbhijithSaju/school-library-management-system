@@ -1,0 +1,19 @@
+	"SCHOOL LIBRARY MANAGEMENT SYSTEM"
+`	************************************
+		Version 1.0.0.1
+	    Developed on October 2023 
+  Computer Science Project- St.Antony's Public School,Kanjirappally
+  as a part of Project Requirement Fulfilment of AISSCE-Class 12
+     for the academic year 2023-2024
+ 
+List of Students contributed to the Project:
+ 1.Abhijith Saju(Team Leader and Developer)
+ 2.Rahul Rajesh(Documentation)
+ 3.M N Muhammad Farzan(Documentation)
+ 4.Amal Aneesh(Documentation)
+
+  Special thanks to Mrs.Thanuja Mathew,Our Computer Teacher
+  for the valuable suggestions which helped in making our project 
+  a great success!!
+
+  ©School Library Management System-2023

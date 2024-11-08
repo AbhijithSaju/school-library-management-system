@@ -1,0 +1,23 @@
+	*******LIBRARY MANAGEMENT SOFTWARE*******
+		   Version 1.0.0.1
+
+	-------------HELP AND SUPPORT-------------------
+   Thank you for using our Library Management Software
+
+   If you are encountering with error messages in the software,
+   Please make sure that you:
+   1.Input into the software using suitable characters
+   2.Make sure that your input devices are working
+   3.Make sure that you login with correct credentials
+
+We recommend you to use the program with Windows 7 or Windows 10 with 
+Core i3 or i5 having Python 3.8 or above for optimum performance
+
+************************************************************************
+************	  For Help and Support contact		***************
+************	abhijithsaju005@gmail.com		****************
+************	  Or give a Missed call to:		****************
+*************	      7593919951			*****************
+**************************************************************************
+    ®2023-Library Management System
+     Developed by Abhijith Saju Saps Anakkal
